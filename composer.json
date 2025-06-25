@@ -1,0 +1,15 @@
+{
+    "name": "example/dependency-checker-test",
+    "description": "Test project for dependency checker",
+    "require": {
+        "php": "^7.4",
+        "laravel/framework": "8.0.0",
+        "guzzlehttp/guzzle": "7.0.0",
+        "symfony/http-foundation": "5.2.0",
+        "monolog/monolog": "2.2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5.0",
+        "mockery/mockery": "1.4.0"
+    }
+} 
